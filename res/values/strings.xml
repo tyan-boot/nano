@@ -247,6 +247,10 @@
         <item>night</item>
     </string-array>
 
+    <string name="pref_clipboard_viewer_title">Clipboard Viewer</string>
+    <string name="pref_clipboard_viewer_summary">Enable clipboard viewer while editing notes.</string>
+    <string name="pref_clipboard_viewer_default"></string>
+
     <string name="pref_lux_title">Ambient Glow (Experimental)</string>
     <string name="pref_lux_summary">Adapt color temperature to ambient light (colors in Markdown unaffected).  Require Auto Theme add-on.</string>
     <string name="pref_lux_default"></string>
@@ -418,6 +422,9 @@
     <string name="dialog_draw_ok">Paste</string>
     <string name="dialog_draw_cancel">Discard</string>
 
+    <string name="dialog_canvas_stroke_ok">Set</string>
+    <string name="dialog_canvas_stroke_cancel">Cancel</string>
+
     <string name="dialog_add_shortcut_title">Add Shortcut</string>
     <string name="dialog_add_shortcut_hint">\u0020as the shortcut for</string>
     <string name="dialog_add_shortcut_ok">Set</string>
@@ -485,7 +492,7 @@
     <string name="button_locationstamp_description">Insert Location Stamp</string>
 
     <string name="button_draw">\uF1FC</string>
-    <string name="button_draw_description">Draw</string>
+    <string name="button_draw_description">Sketch</string>
 
     <string name="button_search">\uF002</string>
     <string name="button_search_description">Search</string>
